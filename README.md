@@ -14,7 +14,7 @@ Desenvolvedor de Software | Automação, Fullstack & IA Generativa
 
 Sou estudante de Ciência da Computação no 8º período e atuo como estagiário de desenvolvimento de software na SMTI de Porto Velho, sendo o desenvolvedor principal do sistema de sinalização de trânsito integrado ao PVH+.
 
-Atualmente atuo com desenvolvimento fullstack (PHP, Laravel, React, TypeScript, Node.js), além de desenvolver ferramentas e automações voltadas para inteligência artificial generativa e engenharia de contexto (como o Dev Automation Kit e CrewAI).
+Atualmente atuo com desenvolvimento fullstack (PHP, Laravel, React, TypeScript, Node.js), além de desenvolver ferramentas e automações voltadas para inteligência artificial generativa e engenharia de contexto.
 
 Tenho interesse especial em engenharia de software, arquitetura de sistemas, automação de fluxos e integração com LLMs.
 
